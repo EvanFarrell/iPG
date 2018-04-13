@@ -1,5 +1,20 @@
 // Questions
 var q = [
+	'What do you do?',
+	'What is hard about what youre doing?',
+	'What is the pain you solve?',
+	'What progress have you made so far?',
+	'What is your business model?',
+	'Why do you want to do YC?',
+	'What shift allowed this to happen?',
+	'How will you scale user acquisition?',
+	'Why are you hard to copy?',
+	'Why are you uniquely qualified to solve this problem?',
+	'How will this be a 10 Billion dollar company?',
+	'Where will revenue be in 1 year?',
+	'Who are your customers, and what problem are you solving for them?',
+
+
 	'What do you understand that others don&#39;t?',
 	'Why will you succeed?',
 	'How big an opportunity is there?',
@@ -15,7 +30,10 @@ var q = [
 	'How are you understanding customer needs?',
 	'How will you get users?',
 	'Who would you hire or how would you add to your team?',
-	
+	'How will you overcome the barriers that allow existing options to stay bad?',
+	'Have you tried multiple mutations of your idea?',
+	'Who would you hire or how would you add to your team?',
+
 	'So what are you working on?',
 	'Do you have a demo?',
 	'Where is the rocket science here?',
@@ -76,7 +94,7 @@ var q = [
 	'What is the next step with the product evolution?',
 	'Have you raised funding?',
 	'Who would be your next hire?',
-	
+
 	'How do you know people want this?',
 	'What do you know about this space/product others don&#39;t know?'
 ];
