@@ -86,7 +86,7 @@ var q = [
 	'Will your team stick at this?',
 	'Tell us something surprising you have done?',
 	'What&#39;s the funniest thing that has happened to you?',
-	'What&#39;s the worst thing that has happened?',
+
 	'What&#39;s the biggest mistake you have made?',
 	'What is your burn rate?',
 	'How long can you go before funding?',
