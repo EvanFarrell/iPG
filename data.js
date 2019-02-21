@@ -113,7 +113,6 @@ var q = [
 	'How much they will pay?',
 	'What are current alternatives?',
 	'Who needs what you’re making?',
-	'Why don’t they give out loans?',
 	'What’s the rocket science here? What’s hard about this?',
 	'Why are existing products bad?',
 	'Why can existing products stay bad?',
@@ -178,5 +177,6 @@ var tips = [
 	'When talking to PG and the other YC partners, be substantive, and get straight to the point.',
 	'DO NOT BEAT AROUND THE BUSH. Do not hem and haw. "Uhm"s and "uh"s don&#39;t lend an aura of intelligence.',
 	'Use precise and concise language. You aren&#39;t pitching a VC that will ask you what your "secret sauce" is.',
-	'He talks quickly, and so do the other YC partners. Try to match their tempo (as you should when talking to anyone).'
+	'He talks quickly, and so do the other YC partners. Try to match their tempo (as you should when talking to anyone).',
+	'Make sure to pull the race card whenever you can'
 ];
